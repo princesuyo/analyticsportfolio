@@ -34,22 +34,24 @@ The visual design approach centered on creating a professional and data-driven a
 
 --- 
 
-4. Implementation and Impact
+## **Implementation and Impact**
 Through collaboration with my team and the stakeholders, we:
-•	Built an ETL pipeline using AWS Redshift to ensure real-time data updates and scheduled automatic refreshes in Power BI.
-•	Designed interactive dashboards with filters, slicers, and drill-through functionality for dynamic exploration.
-•	Published the report to Power BI Service with role-based access control for secure stakeholder access.
-•	Delivered a centralized, real-time view of AR aging, enabling faster identification of delinquent accounts and aging trends.
-•	Improved decision-making for credit control and collections, enhancing cash flow management through actionable insights.
+- Built an ETL pipeline using AWS Redshift to ensure real-time data updates and scheduled automatic refreshes in Power BI.
+- Designed interactive dashboards with filters, slicers, and drill-through functionality for dynamic exploration.
+- Published the report to Power BI Service with role-based access control for secure stakeholder access.
+- Delivered a centralized, real-time view of AR aging, enabling faster identification of delinquent accounts and aging trends.
+- Improved decision-making for credit control and collections, enhancing cash flow management through actionable insights.
 
-5. Lessons Learned
-•	Challenges:
-o	Ensuring data consistency across multiple sources.
-o	Optimizing query performance for large datasets in AWS Redshift.
-•	Successes:
-o	Delivering a user-friendly and insightful tool for stakeholders.
-o	Reducing manual effort in AR reporting and analysis.
-•	Future Improvements:
-o	Incorporate predictive analytics to forecast delinquency risks.
-o	Expand the report to include additional financial metrics.
+---
+
+## **Lessons Learned**
+### **Challenges**:
+- Ensuring data consistency across multiple sources.
+- Optimizing query performance for large datasets in AWS Redshift.
+### **Successes**:
+-	Delivering a user-friendly and insightful tool for stakeholders.
+-	Reducing manual effort in AR reporting and analysis.
+###	**Future Improvements**:
+- Incorporate predictive analytics to forecast delinquency risks.
+- Expand the report to include additional financial metrics.
 
