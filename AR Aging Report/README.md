@@ -33,12 +33,12 @@ The visual design approach centered on creating a professional and data-driven a
 - Visual cues to distinguish between consolidated and project-level metrics.
 
 ### **Report Content**
-#### **Page 1: Overall Summary**
+#### **Page 1: Overview**
 - Provides a high-level overview of the report.
 - Highlights key findings, trends, and insights at a glance.
   
-#### **Page 2: KPI Analysis**
-This page contains summarized tables and visualizations for all KPIs, analyzed by:
+#### **Page 2: Summary**
+This page contains summarized matrix and tables for all KPIs, analyzed by:
 - **Status of Accounts**
 - **SBU (Strategic Business Unit)**
 - **Product**
@@ -47,7 +47,7 @@ This page contains summarized tables and visualizations for all KPIs, analyzed b
 The following reports are included:
 
 1. **Aging of Receivables**:
-   - Tracks the movement of account statuses between the selected month and the previous month.
+   - Tracks the movement of contract count by their account statuses between the selected month and the previous month.
    - Includes a summarized comment section highlighting **good** and **bad** movements of accounts.
 
 2. **Outstanding Balance**:
@@ -68,9 +68,9 @@ The following reports are included:
 7. **Aged Receivable Equity**:
    - Presents a summary of aged receivable equities.
 
-#### **Page 3: Customizable Analysis**
+#### **Page 3: Customizable Table**
 - Features a **dynamic and customizable table**.
-- Allows users to select specific **analysis dimensions** (e.g., SBU, Product, Account Status) and **metrics** (e.g., Outstanding Balance, Delinquency Rate) as defined in the report.
+- Allows users to select specific **analysis dimensions** (e.g., SBU, Product, Account Status) and **metrics** (e.g., Contract Count, Outstanding Balance, Delinquency Rate) as defined in the report.
 - Enables tailored insights based on user preferences.
   
 --- 
