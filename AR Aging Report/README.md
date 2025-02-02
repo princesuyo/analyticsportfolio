@@ -32,6 +32,47 @@ The visual design approach centered on creating a professional and data-driven a
 - Bookmarked tabs for ease of navigation around the report.
 - Visual cues to distinguish between consolidated and project-level metrics.
 
+### **Report Content**
+#### **Page 1: Overall Summary**
+- Provides a high-level overview of the report.
+- Highlights key findings, trends, and insights at a glance.
+  
+#### **Page 2: KPI Analysis**
+This page contains summarized tables and visualizations for all KPIs, analyzed by:
+- **Status of Accounts**
+- **SBU (Strategic Business Unit)**
+- **Product**
+- **Product Type**
+
+The following reports are included:
+
+1. **Aging of Receivables**:
+   - Tracks the movement of account statuses between the selected month and the previous month.
+   - Includes a summarized comment section highlighting **good** and **bad** movements of accounts.
+
+2. **Outstanding Balance**:
+   - Displays the total outstanding balance of all accounts, broken down by **SBU** and **Product**.
+
+3. **Status Summary of Accounts**:
+   - Provides a breakdown of the total number of accounts per account status, categorized by **SBU** and **Product**.
+
+4. **Product Delinquency Rate**:
+   - Shows the delinquency rate by **SBU** and **Product**.
+
+5. **Delinquency Summary**:
+   - Summarizes the total delinquency and outstanding balance by **SBU** and **Product**.
+
+6. **Aged Delinquent Accounts**:
+   - Displays delinquent accounts across multiple years for a historical perspective.
+
+7. **Aged Receivable Equity**:
+   - Presents a summary of aged receivable equities.
+
+#### **Page 3: Customizable Analysis**
+- Features a **dynamic and customizable table**.
+- Allows users to select specific **analysis dimensions** (e.g., SBU, Product, Account Status) and **metrics** (e.g., Outstanding Balance, Delinquency Rate) as defined in the report.
+- Enables tailored insights based on user preferences.
+  
 --- 
 
 ## **Implementation and Impact**
