@@ -7,10 +7,10 @@ This report provides a comprehensive view of Accounts Receivable (AR) aging, lev
 
 ## **Problem Statement**
 Managing accounts receivable is critical for maintaining healthy cash flow and minimizing financial risks. However, without a centralized and dynamic view of AR data, businesses often struggle to:
-•	Track the status of outstanding invoices.
-•	Identify delinquent accounts and aging trends.
-•	Allocate resources effectively for collections.
-•	Make data-driven decisions to improve cash flow.
+- Track the status of outstanding invoices.
+- Identify delinquent accounts and aging trends.
+- Allocate resources effectively for collections.
+- Make data-driven decisions to improve cash flow.
 This report addresses these challenges by providing a clear, interactive, and real-time overview of AR metrics.
 
 ---
@@ -20,17 +20,17 @@ The overall design process I developed together with the data engineers in this 
 
 ### **Wireframing**
 Using Power BI, I developed high-fidelity wireframes with interactive elements to simulate the user experience for key report pages and user flows. These wireframes focused on:
-•	Clear information hierarchy, especially in differentiating aging buckets and delinquency metrics.
-•	Intuitive navigation patterns, including filters and slicers for dynamic exploration.
-•	Strategic placement of key visuals (e.g., bar charts, tables, and KPIs) to highlight critical insights.
+- Clear information hierarchy, especially in differentiating aging buckets and delinquency metrics.
+- Intuitive navigation patterns, including filters and slicers for dynamic exploration.
+- Strategic placement of key visuals (e.g., bar charts, tables, and KPIs) to highlight critical insights.
 
 
 ### **Visual Design**
 The visual design approach centered on creating a professional and data-driven aesthetic that would appeal to both technical and non-technical users. Key elements included:
-•	A consistent color palette aligned with the organization’s branding, using color coding to differentiate aging buckets and statuses.
-•	Clear typography guidelines for headers, labels, and data points to ensure readability.
-•	Bookmarked tabs for ease of navigation around the report.
-•	Visual cues to distinguish between consolidated and project-level metrics.
+- A consistent color palette aligned with the organization’s branding, using color coding to differentiate aging buckets and statuses.
+- Clear typography guidelines for headers, labels, and data points to ensure readability.
+- Bookmarked tabs for ease of navigation around the report.
+- Visual cues to distinguish between consolidated and project-level metrics.
 
 --- 
 
