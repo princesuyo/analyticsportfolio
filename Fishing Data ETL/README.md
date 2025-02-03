@@ -111,15 +111,3 @@ Automating the ETL process was essential to streamline operations, improve data 
 - Experience with Google Sheets API and SQLAlchemy.
 - Improved understanding of database design and data modeling.
 
----
-
-## 7. Visuals (Optional)
-
-### Screenshots
-- **ETL Pipeline Workflow**: Diagram of the pipeline architecture.
-- **Sample Dashboard**: Example of a dashboard built using the centralized data.
-- **Before-and-After Comparison**: Metrics showing improvements in processing time and error rates.
-
----
-
-This project demonstrates my ability to design and implement scalable ETL solutions that drive efficiency and improve data quality. For detailed impact and measurable results, please download my resume.
