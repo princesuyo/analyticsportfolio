@@ -19,7 +19,7 @@ Welcome to my **Analytics Portfolio**. This repository highlights my expertise i
 - **Programming Languages**: Python, SQL 
 - **Data Visualization**: Power BI, Looker Studio, Tableau
 - **ETL Tools**: pandas, Tableau Prep
-- **Data Warehousing**: PostgreSQL, SQL Server, AWS Redshfit
+- **Data Warehousing**: PostgreSQL, SQL Server, AWS Redshfift
 
 ---
 
